@@ -1,0 +1,6 @@
+{
+  "name": "AI 법률·계약 안심 스캐너",
+  "description": "대한민국 일반 개인, 프리랜서, 소상공인을 위한 5대 핵심 올인원 AI 법률·컴플라이언스 도우미",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
